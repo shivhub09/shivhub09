@@ -1,7 +1,7 @@
-### 👋 Shivam Nagori says Hi!
+### 👋 Shivam Nagori says Hello!
 <!--
 **shivhub09/shivhub09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am an enthusiasitc learner towards all the new technologies and languages for the various development.Currently more interested towards App Development and Machine Learning. I also have done some projects on Wev Development
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
