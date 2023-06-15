@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <h3>I am an enthusiastic learner towards all the new technologies and languages used in various development.Currently more interested towards App Development and Machine Learning. I also have done some projects on Web Development.</h3>
-<h3>I am currently working as an <b>App Developer in an organization named <b>MarcosQuay</h3>
+<h3>I am currently working as an <b>App Developer in an organization named <b>MarcosQuay</b></h3>
 
 
