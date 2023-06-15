@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="left">Let's Connect</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-nagori-61b237228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineet-chotaliya-015238246" height="30" width="40" /></a>
-<a href="https://www.instagram.com/itsmeshivam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vineet___04" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/itsmeshivam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmeshivam._" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Development Tools : </h3>
