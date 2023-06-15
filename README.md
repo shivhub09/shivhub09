@@ -1,4 +1,4 @@
-### <h1>👋 Shivam says Hello!</h1>
+### <h1 style="text-align: center">👋 Shivam says Hello!</h1>
 <!--
 **shivhub09/shivhub09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am an enthusiasitc learner towards all the new technologies and languages for the various development.Currently more interested towards App Development and Machine Learning. I also have done some projects on Wev Development
