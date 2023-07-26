@@ -7,7 +7,7 @@
  - 🌱 Currently more interested towards **App Development** & **Machine Learning**.
  - 🔭 Currently working as an **App Developer** in an organization named **MarcosQuay**
  - 💬 U can reach me at : **shivnagori2020@gmail.com**
- - ⚡ Here is **<a href="https://drive.google.com/file/d/1l77fRhFUIyQyeznUm3hOwb6UCFKYfaCB/view?usp=sharing"></a>** 
+ - ⚡ Here is <a href="https://drive.google.com/file/d/1l77fRhFUIyQyeznUm3hOwb6UCFKYfaCB/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Let's Connect</h3>
 <p align="left">
