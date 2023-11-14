@@ -37,7 +37,7 @@
 <div display="flex">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivhub09&show_icons=true&locale=en" alt="shivhub09" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivhub09&" alt="shivhub09" /></p>
- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivhub09&show_icons=true&locale=en&layout=compact&theme=dark" alt="shivhub09" /></p>
 </div>
 
 
