@@ -33,7 +33,7 @@
 
 <h3 align="left">Check out my stats:</h3>
 <img  src="https://github-readme-stats.vercel.app/api?username=shivhub09&show_icons=true&hide_border=true&theme=gotham" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivhub09r&theme=gotham" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivhub09&theme=gotham" width="45%" >
 
 <div display="flex">
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=shivhub09&theme=vue-dark&hide_border=true">
