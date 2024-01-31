@@ -4,8 +4,8 @@
 
 
  - ⚡ I am an enthusiastic learner towards all the new technologies and languages used in various development.
- - 🌱 Currently more interested towards **App Development** & **Machine Learning**.
- - 🔭 Currently working as an **App Developer** in an organization named **MarcosQuay**
+ - 🌱 Currently more interested towards **Machine Learning** and **Artificial Intelligence**.
+ - 🔭 Worked as a **Full Stack App Developer** at **MarcosQuay**
  - 💬 U can reach me at : **shivnagori2020@gmail.com**
  - ⚡ Here is <a href="https://drive.google.com/file/d/12xtVdQhhvG29YCAsHaW5Zl3fosQe9Qd3/view?usp=sharing">**My Resume**</a>
 
