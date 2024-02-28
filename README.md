@@ -53,7 +53,7 @@
 
 <!--<h3 align="left">Check out my stats:</h3>-->
 <!-- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=shivhub09&label=Profile%20views&color=0e75b6&style=flat" alt="shivhub09" />  -->
-<h1 align="center"> Statistics</h1>
+<h1 align="left"> Statistics</h1>
 <p align="center">
   <a href="https://github.com/shivhub09/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=shivhub09&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
