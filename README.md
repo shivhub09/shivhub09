@@ -53,9 +53,9 @@
 
 <h3 align="left">Check out my stats:</h3>
 <!-- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=shivhub09&label=Profile%20views&color=0e75b6&style=flat" alt="shivhub09" />  -->
-<img  src="https://github-readme-stats.vercel.app/api?username=shivhub09&show_icons=true&hide_border=true&theme=gotham" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=shivhub09&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" width="45%" align="right" height="165>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivhub09&theme=gotham" width="45%" >
 
 <div display="flex">
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=shivhub09&theme=vue-dark&hide_border=true">
+<a href="http://github-readme-streak-stats.herokuapp.com?user=shivhub09&theme=react&background=0d1117&border=666">
 </div>
