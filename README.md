@@ -9,13 +9,13 @@
  - 💬 U can reach me at : **shivnagori2020@gmail.com**
  - ⚡ Here is <a href="https://drive.google.com/file/d/1_XRZHIDIlFYCuifSq6PPy5qTc7VA7F7q/view?usp=sharing">**My Resume**</a>
 
-<h3 align="left">Let's Connect</h3>
+<h1 align="left">Let's Connect</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-nagori-61b237228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam" height="30" width="40" /></a>
 <a href="https://www.instagram.com/itsmeshivam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmeshivam._" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages , Softwares , Tools , Services and Frameworks:</h3>
+<h1 align="left">Languages , Softwares , Tools , Services and Frameworks:</h1>
 <!--  -- > C programming <! -- --->
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
