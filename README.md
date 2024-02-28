@@ -58,8 +58,8 @@
   <a href="https://github.com/shivhub09/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=shivhub09&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
   </a>
-   <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=shivhub09&theme=react&background=0d1117&border=666">
+   <a href="https://git.io/streak-stats" align="right">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=shivhub09&theme=react&background=0d1117&border=666" height="165">
   </a>
 </p>
 </div>
