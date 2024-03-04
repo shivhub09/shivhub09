@@ -12,7 +12,7 @@
 <h1 align="left">Let's Connect</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-nagori-61b237228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam" height="30" width="40" /></a>
-<a href="https://www.instagram.com/itsmeshivam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmeshivam._" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/itsmeshivam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmeshivam._" height="30" width="40" /></a> -->
 </p>
 
 <h1 align="left">Languages , Softwares , Tools , Services and Frameworks:</h1>
