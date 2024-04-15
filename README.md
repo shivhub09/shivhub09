@@ -1,5 +1,5 @@
 <h1 align="center">👋 Shivam says Hello!</h1>
-<h3 align="center">Pursuing B.Tech Computer Science and Engineering (Daa Science)</h3>
+<h3 align="center">Pursuing B.Tech Computer Science and Engineering (Data Science)</h3>
 
 
 
