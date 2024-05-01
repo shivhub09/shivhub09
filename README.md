@@ -7,7 +7,7 @@
  - 🌱 Currently more interested towards **Machine Learning** and **Artificial Intelligence**.
  - 🔭 Worked as a **Full Stack App Developer** at **MarcosQuay**
  - 💬 U can reach me at : **shivnagori2020@gmail.com**
- - ⚡ Here is <a href="https://drive.google.com/file/d/1_XRZHIDIlFYCuifSq6PPy5qTc7VA7F7q/view?usp=sharing">**My Resume**</a>
+ - ⚡ Here is <a href="https://docs.google.com/document/d/1aGiDB0zDnIecYoQ7PPcAOrV81kvegqIoUZbiGxkZYA4/edit?usp=sharing">**My Resume**</a>
  - 👦🏻 Check out my portfolio <a href="https://shivam-nagori-portfolio.vercel.app/">**Portfolio**</a>
 
 <h1 align="left">Let's Connect</h1>
