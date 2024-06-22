@@ -5,7 +5,9 @@
 
  - ⚡ I am an enthusiastic learner towards all the new technologies and languages used in various development.
  - 🌱 Currently more interested towards **Machine Learning** and **Artificial Intelligence**.
- - 🔭 Worked as a **Full Stack App Developer** at **MarcosQuay**
+ - 🔭 Working as a **Full Stack Developer** at **SAND**
+ - 🔭 Worked as a **AIML Virtual Intern** at **Google, AICTE**
+ - 🔭 Worked as a **Software Application Developer** at **MarcosQuay**
  - 💬 U can reach me at : **shivnagori2020@gmail.com**
  - ⚡ Here is <a href="https://docs.google.com/document/d/1aGiDB0zDnIecYoQ7PPcAOrV81kvegqIoUZbiGxkZYA4/edit?usp=sharing">**My Resume**</a>
  - 👦🏻 Check out my portfolio <a href="https://shivam-nagori-portfolio.vercel.app/">**Portfolio**</a>
