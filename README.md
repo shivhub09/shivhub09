@@ -5,6 +5,7 @@
 
  - ⚡ I am an enthusiastic learner towards all the new technologies and languages used in various development.
  - 🌱 Currently more interested towards **Machine Learning** and **Artificial Intelligence**.
+ - 🔭 Working as a **Free Lancer { Software Developer }** at **MarcosQuay**
  - 🔭 Worked as a **Full Stack Developer** at **SAND**
  - 🔭 Worked as a **AIML Virtual Intern** at **Google, AICTE**
  - 🔭 Worked as a **Software Application Developer** at **MarcosQuay**
